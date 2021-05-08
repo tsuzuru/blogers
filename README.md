@@ -23,7 +23,7 @@ https://xxxxxx.xxx.com/
 <!--## 設計書-->
 <!--<...>-->
 
-## チャレンジ要素一覧
+## 機能一覧
 https://docs.google.com/spreadsheets/d/1x0DgIKHOY1fG7a7qy91_BvvxvfNS1ca5YdLdk907E5o/edit?usp=sharing
 
 ## 開発環境
