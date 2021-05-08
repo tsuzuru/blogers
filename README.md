@@ -5,7 +5,7 @@
 admin側で記事の作成、編集、画像投稿をMarkdownで執筆できるレスポンシブWebデザインのサイトです。
 
 ### URL
-https://xxxxxx.xxx.com/(ダミー)
+https://xxxxxx.xxx.com/
 
 ### サイトテーマ
 実際に使い経験して分かる、役に立つ情報、不安を解消する情報を発信。
